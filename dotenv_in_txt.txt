@@ -1,0 +1,36 @@
+# ===== DROP YOUR NUMBERS IN THIS FILE ⬇️⬇️⬇️⬇️⬇️
+LEADS                               = leads.txt
+
+
+# =======  SENDING SPEED RATE
+BOTS                                = 4
+DELAY_IN_SECOND                     = 1
+
+
+# ================== TEST NUMBER ==================
+INSERT_TEST_NUMBER                  = 1
+TEST_NUMBER                         = +15141111111
+INTERVAL_BETWEEN_TEST_NUMBER        = 1000
+
+
+# ================= SMS CONTENT
+LETTER                              = Friend Ballade demain https://google.com
+
+
+# ================== APIS KEY ==================
+    #   ⬇️ TWILIO ⬇️
+TWI_ACCOUNT_SID                     = AC19beb7a79a57664ed6b596fe6902f353
+TWI_AUTH_TOKEN                      = 77415a8f5ad749b2a75297ed02f96e39
+    #   ⬆️ TWILIO ⬆️
+
+    #   ⬇️ PLIVO ⬇️
+PLIV_AUTH_ID                        = AC19beb7a79a57664ed6b596fe6902f353
+PLIV_AUTH_TOKEN                     = 77415a8f5ad749b2a75297ed02f96e39
+    #   ⬆️ PLIVO ⬆️
+
+    #   ⬇️ VONAGE ⬇️
+VON_API_KEY                         = dfe3da21
+VON_API_SECRET                      = a9oVkafc9MKrGQDc
+    #   ⬆️ VONAGE ⬆️
+# ================== APIS KEY ==================
+

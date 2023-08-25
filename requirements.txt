@@ -1,0 +1,8 @@
+pyfiglet
+termcolor
+requests
+python-dotenv
+twilio
+plivo
+vonage
+infobip-api-python-sdk
